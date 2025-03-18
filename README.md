@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### 'npm install'
+
+Installs all dependencies from package.json.
+Creates/updates node_modules and package-lock.json.
+Ensures the project is ready to run.
 
 ### `npm start`
 
